@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "メッセージ",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-03-25T07:58:27.439769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Star 〜メッセージ〜",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/01_My_Star_〜メッセージ〜_May_J..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Star ～メッセージ～",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/02_My_Star_~メッセージ~_May_J..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハイファイ メッセージ",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/03_ハイファイ_メッセージ_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハイファイ メッセージ",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/04_ハイファイ_メッセージ_Every_Little_Thing.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風の伝言 (メッセージ)",
+      "artist": "hitomi",
+      "has_synced": false,
+      "path": "select/05_風の伝言_(メッセージ)_hitomi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/06_メッセージ_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/07_メッセージ_YUKI.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/08_メッセージ_YUKI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "Humbert Humbert",
+      "has_synced": false,
+      "path": "select/09_メッセージ_Humbert_Humbert.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "GEMS COMPANY",
+      "has_synced": false,
+      "path": "select/10_メッセージ_GEMS_COMPANY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS for BEST5! (渋谷凛、安部菜々、緒方智絵里、島村卯月、本田未央)",
+      "has_synced": true,
+      "path": "select/11_メッセージ_THE_IDOLM@STER_CINDERELLA_GIRLS_for_BEST5!_(渋谷凛、安部菜々、緒方智絵里、島村卯月、本田未央).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "島村卯月(CV:大橋彩香)、渋谷凛(CV:福原綾香)、本田未央(CV:原紗友里)",
+      "has_synced": true,
+      "path": "select/12_メッセージ_島村卯月(CV_大橋彩香)、渋谷凛(CV_福原綾香)、本田未央(CV_原紗友里).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メッセージ・ソング",
+      "artist": "ピチカート・ファイヴ",
+      "has_synced": false,
+      "path": "select/13_メッセージ・ソング_ピチカート・ファイヴ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "The Biscats",
+      "has_synced": true,
+      "path": "select/14_メッセージ_The_Biscats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "島村卯月",
+      "has_synced": true,
+      "path": "select/15_メッセージ_島村卯月.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "w-inds.",
+      "has_synced": true,
+      "path": "select/16_メッセージ_w-inds..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "メッセージ(オリジナル・カラオケ)",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS",
+      "has_synced": false,
+      "path": "select/17_メッセージ(オリジナル・カラオケ)_THE_IDOLM@STER_CINDERELLA_GIRLS.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "メッセージ",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS",
+      "has_synced": true,
+      "path": "select/18_メッセージ_THE_IDOLM@STER_CINDERELLA_GIRLS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メッセージ",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_メッセージ_iLiFE!.txt"
+    }
+  ]
+}

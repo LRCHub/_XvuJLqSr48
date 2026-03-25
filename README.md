@@ -1,0 +1,52 @@
+# iLiFE! – メッセージ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+鼓動の高鳴り 気付かないフリして逃げてる
+それなのにいつも 君を探している そうだよ
+優しい声で笑う君の近く
+ずっと居たいな とか望んでしまったんだ
+君にメッセージ このメッセージ 今メッセージ
+つたない想いだけど
+直線距離あと数メーターで君に届く
+願って 迷って なぞって導いた言葉は
+涙色にすこし滲んだ恋の歌
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+この目を逸らさず会話をするなんて無理だよ
+その目に映ってる私を見つけたら嫌になる
+この気持ちを文字数制限目一杯
+書き込んでも宛名がなきゃ届かないのに
+君にメッセージ そのメッセージ ただメッセージ
+ふわり風に乗って
+誰も知らないところまで飛んで行った
+これでいいって嗤ってかき消す言葉は
+雨の音ですこし濁った恋の歌
+いつか青い春の先 褪せた思い出にして
+それが一番綺麗だと心を閉じ込めて
+だけどなんでこの声は震えて
+うまく話せない
+なんでもないフリしてたださよならしよう
+そうやって偽って守っているのは何の為？
+こんなに心は泣いているのに
+君にメッセージ このメッセージ 今メッセージ
+つたない想いだけど
+ありのままのこの全てで君に伝う
+願って 迷って なぞって導いた言葉は
+涙色にすこし滲んだ恋の歌
+君の声にすこし染まった恋の歌
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message
+Be Be Be Be Be send message…
+```
